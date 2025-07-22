@@ -1,5 +1,5 @@
  /*Adding some comments to test this process with github*/
- /**/
+ /*Adding another comment line*/
  WITH property AS (
          SELECT DISTINCT ON (app_vproperty.mapnumber) app_vproperty.mapnumber,
             app_vproperty.propertynumbersearch,
